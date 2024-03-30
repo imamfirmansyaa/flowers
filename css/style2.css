@@ -353,13 +353,13 @@ body{
 
 .button-85 {
     padding: 2em 2em;
-    margin-bottom: 38%;
+    margin-bottom: 80%;
     border: none;
     outline: none;
     color: rgb(255, 255, 255);
     background: #111;
     cursor: pointer;
-    position: absolute;
+    position: relative;
     z-index: 0;
     border-radius: 10px;
     user-select: none;
